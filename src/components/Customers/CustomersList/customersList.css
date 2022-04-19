@@ -1,0 +1,12 @@
+.customer{
+    display: flex;
+    column-gap: 2%;
+    justify-content: center;
+}
+
+address{
+    display: flex;
+    align-items: center;
+    column-gap: 10%;
+   
+}

@@ -1,0 +1,12 @@
+.form{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    
+}
+
+.form label{
+    display: flex;
+    flex-direction: column-reverse;
+    padding:3%
+} 

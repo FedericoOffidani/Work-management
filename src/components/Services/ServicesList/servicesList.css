@@ -1,0 +1,13 @@
+.service{
+    display: flex;
+    column-gap: 2%;
+    justify-content: center;
+    width: 100%;
+}
+
+address{
+    display: flex;
+    /* align-items: center; */
+    width: auto; 
+}
+
