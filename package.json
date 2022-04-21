@@ -38,7 +38,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "webpack --mode=production --node-env=production",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "build:dev": "webpack --mode=development",
@@ -69,11 +69,10 @@
     "@webpack-cli/generators": "^2.4.2",
     "babel-loader": "^8.2.3",
     "css-loader": "^6.7.1",
+    "devextreme-themebuilder": "^21.2.4",
     "prettier": "^2.6.0",
     "style-loader": "^3.3.1",
-    "webpack": "^5.70.0",
-    "webpack-cli": "^4.9.2",
-    "devextreme-themebuilder": "^21.2.4"
+    "webpack-cli": "^4.9.2"
   },
   "description": "My webpack project"
 }
